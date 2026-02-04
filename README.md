@@ -12,7 +12,7 @@ ________________________________________________________________________________
 ## Homework #1
 | Name | Value |
 | --- | --- |
-| Name: | FIXME |
+| Name: | Alistair |
 | Description: | FIXME |
 | Due Date: | FIXME |
 | Status: | FIXME (In Progress, Finished, Not Started, etc...) |
@@ -23,9 +23,9 @@ ________________________________________________________________________________
 ## Lab #1
 | Name | Value |
 | --- | --- |
-| Name: | FIXME |
-| Description: | FIXME |
-| Due Date: | FIXME |
-| Status: | FIXME (In Progress, Finished, Not Started, etc...) |
-| Location: | <provide GitHub link to assignment once you've pushed it> |
-| Notes: | FIXME |
+| Name: | Alistair |
+| Description: | ASCII ART |
+| Due Date: | 02/06/2026 |
+| Status: |  Finished |
+| Location: | https://github.com/Alistair8197/CS130-aclark/tree/main/Labs/Lab%201/ASCII |
+| Notes: | N/A |

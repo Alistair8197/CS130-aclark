@@ -5,7 +5,7 @@
 
 using namespace std;
 
-main() {
+int main() {
 // Define varibles and conversions
     const double g= 9.81;
     const double ft_meter = 0.3048;
@@ -13,20 +13,19 @@ main() {
     const double PI = 3.1415;
 
 // Defines varibles for user to choose (angle, velocity, and distance)
-    string 
-    double unitChoice;
+    string unitChoice; 
     double alpha;           
     double muzzle_velocity; 
     double target_dist; 
 
  // asks for user input on units, angle, velocity, and distance
-    cout << "Enter units (meters or feet): "
+    cout << "Enter units (meters or feet): ";
     cin >> unitChoice;
-    cout << "Enter launch angle (degrees between 0 and 90): "
+    cout << "Enter launch angle (degrees between 0 and 90): ";
     cin >> alpha;
-    cout << "Enter muzzle velocity: "
-    cin >> muzzle_velocity
-    cout << "Enter target distance: "
+    cout << "Enter muzzle velocity: ";
+    cin >> muzzle_velocity;
+    cout << "Enter target distance: ";
     cin >> target_dist;
 
 // Unit conversions

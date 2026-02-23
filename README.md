@@ -29,3 +29,13 @@ ________________________________________________________________________________
 | Status: |  Finished |
 | Location: | https://github.com/Alistair8197/CS130-aclark/tree/main/Labs/Lab%201/ASCII |
 | Notes: | N/A |
+_______________________________________________________________________________________________________________
+## Project #1
+| Name | Value |
+| --- | --- |
+| Name: | Alistair |
+| Description: | Velocity project |
+| Due Date: | 2/26 |
+| Status: | Finished |
+| Location: | https://github.com/Alistair8197/CS130-aclark/blob/main/Project/Proj1.cpp |
+| Notes: | N/A |

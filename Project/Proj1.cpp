@@ -4,7 +4,7 @@
 // This program then asks for a velocity
 // This prgram then asks how far a target is away from the launcher
 // This program then tells the user the flight time, max height, horizontal distance, and max possible range all in meters and feet
-// Finally the program will tell the user if the terget is hit
+// Finally the program will tell the user if the target is hit
 
 #include <iostream>
 #include <iomanip>

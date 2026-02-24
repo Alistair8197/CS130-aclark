@@ -1,7 +1,16 @@
+// Written by Alistair Clark
+// This program asks a user first to input feet or meters
+// This program then ask for a launch angle
+// This program then asks for a velocity
+// This prgram then asks how far a target is away from the launcher
+// This program then tells the user the flight time, max height, horizontal distance, and max possible range all in meters and feet
+// Finally the program will tell the user if the terget is hit
+
 #include <iostream>
-#include <cmath>
 #include <iomanip>
 #include <string>
+#include <cmath>
+
 
 using namespace std;
 

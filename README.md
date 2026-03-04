@@ -29,6 +29,16 @@ ________________________________________________________________________________
 | Status: |  Finished |
 | Location: | https://github.com/Alistair8197/CS130-aclark/tree/main/Labs/Lab%201/ASCII |
 | Notes: | N/A |
+
+## Lab #2
+| Name | Value |
+| --- | --- |
+| Name: | Alistair |
+| Description: | LOOPS LAB |
+| Due Date: | 03/04/2026 |
+| Status: |  Finished |
+| Location: | https://github.com/Alistair8197/CS130-aclark/tree/main/Labs/Lab1/ASCII/Lab%202 |
+| Notes: | N/A |
 _______________________________________________________________________________________________________________
 ## Project #1
 | Name | Value |

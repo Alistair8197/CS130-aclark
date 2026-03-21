@@ -49,3 +49,13 @@ ________________________________________________________________________________
 | Status: | Finished |
 | Location: | https://github.com/Alistair8197/CS130-aclark/blob/main/Project/Proj1.cpp |
 | Notes: | N/A |
+_______________________________________________________________________________________________________________
+## Project #2
+| Name | Value |
+| --- | --- |
+| Name: | Alistair |
+| Description: | Function project |
+| Due Date: | 3/24 |
+| Status: | Finished |
+| Location: | https://github.com/Alistair8197/CS130-aclark/blob/main/Project/Proj2.cpp |
+| Notes: | N/A |

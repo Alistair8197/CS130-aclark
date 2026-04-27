@@ -1,10 +1,10 @@
-//  This Program is written by Alistair Clark
-// This program calculates a projectile’s height vs distance and also graphs it
-// Date: 4/19/26
+%%  This Program is written by Alistair Clark
+%% This program calculates a projectile’s height vs distance and also graphs it
+%% Date: 4/19/26
 
 
 
->> clc;
+clc;
 clear;
 
 %% INPUTS

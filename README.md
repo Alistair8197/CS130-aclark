@@ -63,7 +63,7 @@ ________________________________________________________________________________
 | Name | Value |
 | --- | --- |
 | Name: | Alistair |
-| Description: | MATLAB Dist vs height  project |
+| Description: | MATLAB Dist vs height project |
 | Due Date: | 4/21 |
 | Status: | Finished |
 | Location: | https://github.com/Alistair8197/CS130-aclark/blob/main/Project/Matalab1.m and https://github.com/Alistair8197/CS130-aclark/blob/main/Project/Screenshot%20matlab.png |

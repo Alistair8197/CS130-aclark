@@ -77,6 +77,6 @@ ________________________________________________________________________________
 | Description: | MATLAB Homework 2 |
 | Due Date: | 5/4 |
 | Status: | Finished |
-| Location: |  |
+| Location: | https://github.com/Alistair8197/CS130-aclark/blob/main/Project/Matlab2.m and https://github.com/Alistair8197/CS130-aclark/blob/main/Project/Screenshot%202.png |
 | Notes: | see attached screen shot in above location |
 

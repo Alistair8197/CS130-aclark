@@ -59,6 +59,7 @@ ________________________________________________________________________________
 | Status: | Finished |
 | Location: | https://github.com/Alistair8197/CS130-aclark/blob/main/Project/Proj2.cpp |
 | Notes: | N/A |
+_______________________________________________________________________________________________________________
 ## MATLAB Project #1
 | Name | Value |
 | --- | --- |
@@ -67,5 +68,15 @@ ________________________________________________________________________________
 | Due Date: | 4/21 |
 | Status: | Finished |
 | Location: | https://github.com/Alistair8197/CS130-aclark/blob/main/Project/Matalab1.m and https://github.com/Alistair8197/CS130-aclark/blob/main/Project/Screenshot%20matlab.png |
+| Notes: | see attached screen shot in above location |
+_______________________________________________________________________________________________________________
+## MATLAB Project #2
+| Name | Value |
+| --- | --- |
+| Name: | Alistair |
+| Description: | MATLAB Homework 2 |
+| Due Date: | 5/4 |
+| Status: | Finished |
+| Location: |  |
 | Notes: | see attached screen shot in above location |
 

@@ -87,6 +87,6 @@ ________________________________________________________________________________
 | Description: | CPP Project 2 (final) |
 | Due Date: | 5/8 |
 | Status: | Finished |
-| Location: |  |
+| Location: | https://github.com/Alistair8197/CS130-aclark/blob/main/Project/FinalProj.cpp and https://github.com/Alistair8197/CS130-aclark/blob/main/Project/matches.txt and https://github.com/Alistair8197/CS130-aclark/blob/main/Project/table10.txt and https://github.com/Alistair8197/CS130-aclark/blob/main/Project/Screenshot%203.png |
 | Notes: | see attached files screen shot in above location |
 

@@ -78,5 +78,15 @@ ________________________________________________________________________________
 | Due Date: | 5/4 |
 | Status: | Finished |
 | Location: | https://github.com/Alistair8197/CS130-aclark/blob/main/Project/Matlab2.m and https://github.com/Alistair8197/CS130-aclark/blob/main/Project/Screenshot%202.png |
-| Notes: | see attached screen shot in above location |
+| Notes: | see attached screen shot in above location, used the provided example CSV chart |
+_______________________________________________________________________________________________________________
+## Final Project #2
+| Name | Value |
+| --- | --- |
+| Name: | Alistair |
+| Description: | CPP Project 2 (final) |
+| Due Date: | 5/8 |
+| Status: | Finished |
+| Location: |  |
+| Notes: | see attached files screen shot in above location |
 
